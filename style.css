@@ -1,0 +1,31 @@
+.area_posts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+#butao{
+    margin-top: 100px;
+    color: #fff;
+    background-color: blue;
+    padding: 5px 10px;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+}
+.area_posts h1 {
+    color: blue;
+    
+}
+.area_posts h3{
+    text-align: center;
+    font-size: 35px;
+    color: #00ff;
+
+}
+.area_posts p {
+    text-align: center;
+    font-size: 15px;
+    
+}
